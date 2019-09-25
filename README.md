@@ -25,4 +25,5 @@ a [Community Lawyer](Community.lawyer) blog post.
 ## Reading / Coding Assignment
 ### [Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter3/)
 
-I have included palindrome.py an easy project with lots of hints using functions
+
+Functions.py - this repo has a few fairly simple examples
